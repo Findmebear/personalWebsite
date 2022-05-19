@@ -13,7 +13,6 @@ const Header = () => {
          <h5 className="text-light">Computer Science and Business Student @ Lehigh University</h5>
          <CTA/>
          <HeaderSocials/>
-         
           <div className="snapshot">
             <img src={Snapshot} alt="profilePic" />
           </div>
