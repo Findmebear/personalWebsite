@@ -6,9 +6,9 @@ import {FaTelegram} from 'react-icons/fa'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href="https://linkedin.com" target="_blank"><ImGithub/></a>
-        <a href="https://linkedin.com" target="_blank"><IoLogoLinkedin/></a>
-        <a href="https://telegram.com" target="_blank"><FaTelegram/></a>
+        <a href="https://github.com/Findmebear" target="_blank"><ImGithub/></a>
+        <a href="https://www.linkedin.com/in/artem-m/" target="_blank"><IoLogoLinkedin/></a>
+        <a href="https://t.me/findmebear" target="_blank"><FaTelegram/></a>
     </div>
   )
 }
