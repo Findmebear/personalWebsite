@@ -86,10 +86,6 @@
 }
 /* ===================== Media Queries (Small Devices) ================ */
 @media screen and (max-width: 600px) {
-    .about__container {
-        grid-template-columns: 1fr;
-        gap: 0;
-    }
     .about__me {
         width: 65%;
         margin: 0rem auto 3rem;
