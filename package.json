@@ -1,5 +1,6 @@
 {
   "name": "personalWebsite",
+  "homepage": "https://artem-maryanskyy.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
