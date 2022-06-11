@@ -21,12 +21,14 @@ const Footer = () => {
 
       <div className='footer__socials'>
         <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
+        <a href="https://instagram.com/maryanskyy_aa"><FiInstagram/></a>
         <a href="https://twitter.com"><IoLogoTwitter/></a>
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy; EGATOR Tutorials. All rights reserved</small>
+        <small>Template design by </small>
+        <small className='egator__link'><a href="https://youtu.be/G-Cr00UYokU">EGATOR</a></small>
+        <small>. &copy; All rights reserved</small>
       </div>
     </footer>
   )
