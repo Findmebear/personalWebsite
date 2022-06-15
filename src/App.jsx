@@ -11,6 +11,8 @@ import Footer from './components/footer/Footer'
 const App = () => {
   return (
     <>
+      <h2>The Website Is Still Under Development</h2>
+      <h2>Information contained could be used as a template</h2>
       <Header />
       <Nav/>
       <About/>
